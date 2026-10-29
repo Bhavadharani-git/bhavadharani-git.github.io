@@ -1,38 +1,54 @@
 # Bhavadharani S. — Developer Portfolio
 
-A responsive, single-page portfolio built with semantic HTML, CSS, and vanilla JavaScript. It keeps the existing profile photograph and uses a dark charcoal, electric-lime, and subtle-violet visual system.
+Welcome to my personal developer portfolio! I'm a B.Tech Information Technology student at **Arunai Engineering College, Tiruvannamalai**, passionate about software development and building practical solutions to real-world problems.
 
-## Run locally
-1. Extract the ZIP.
-2. Open `index.html` in a browser.
+## About Me
 
-For a local development server, open a terminal in this folder and run:
-- Python: `python -m http.server 8000`
-- Then visit `http://localhost:8000`
+I'm an aspiring software developer interested in full-stack development, backend engineering, and problem-solving. I enjoy learning new technologies, collaborating on projects, and turning ideas into useful applications.
 
-No build step or npm dependencies are required.
+## Projects
 
-## Deploy
-### Netlify
-1. Sign in to Netlify and choose **Add new site** → **Deploy manually**.
-2. Drag the extracted folder (containing `index.html` and `profile.jpg`) into the deploy area.
-3. Open the generated URL and test it on mobile and desktop.
+### TraumaTrace — NHAA Integrated Support Portal
+A support portal prototype focused on complaint management and accessible assistance, integrating a web interface with backend APIs and an IVRS workflow.
 
-### Vercel
-1. Put the files in a GitHub repository.
-2. Import that repository into Vercel.
-3. Choose the static/Other framework preset, leave the build command empty, and use `.` as the output directory if prompted.
+**Technologies:** Python, FastAPI, PostgreSQL, JWT, Exotel
 
-## Before public submission
-- Add your real resume PDF as `resume.pdf` in this folder. The page currently labels the resume as not included; it does not fabricate one.
-- Add verified project-specific repository URLs and screenshots when available. Project cards currently link to the existing GitHub profile only where appropriate; no project-specific repository or demo links have been invented.
-- Add a public email address only if you want it displayed. The old example email has been removed.
-- Check that the GitHub and LinkedIn profile URLs are correct and public.
-- Verify that all project status labels still reflect their actual status at submission time.
+### GiriGuide
+A pilgrim-assistance project designed to help visitors to Tiruvannamalai access useful temple, transport, and public-facility information.
 
-## Design and functionality
-- Responsive desktop, tablet, and mobile layouts.
-- Accessible hamburger menu with open/close state and auto-close after selecting a section.
-- Active navigation indication, smooth anchor navigation, scroll reveal effects, and reduced-motion support.
-- Custom project illustrations drawn as inline SVG, so no placeholder screenshots or external image assets are required.
-- No frontend framework or build dependencies are required.
+**Technologies:** React, FastAPI, PostgreSQL
+
+### CoCab — Carpooling Platform
+A project in development exploring carpooling and shared travel through a mobile-friendly application and website.
+
+**Planned technologies:** React, FastAPI, PostgreSQL
+
+## Technical Skills
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frontend:** React
+- **Backend:** FastAPI
+- **Database:** PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+
+## Certifications
+
+- Python for Data Science — NPTEL, IIT Madras
+- AI Principles and Techniques — L&T EduTech
+- Succeed in the Age of AI — Udemy
+
+## Education
+
+**B.Tech — Information Technology**  
+Arunai Engineering College, Tiruvannamalai  
+2024–2028 | CGPA: 8.45/10
+
+## Connect With Me
+
+- **LinkedIn:** [Bhavadharani S.](https://linkedin.com/in/bhavadharani-s-366415378)
+- **GitHub:** [Bhavadharani-git](https://github.com/Bhavadharani-git)
+- **Portfolio:** [Visit my portfolio](https://Bhavadharani-git.github.io)
+
+---
+
+*This repository hosts my static personal portfolio website, built with HTML, CSS, and JavaScript.*
